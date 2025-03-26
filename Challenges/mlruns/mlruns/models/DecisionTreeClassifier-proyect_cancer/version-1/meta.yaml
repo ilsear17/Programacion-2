@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743028957097
+current_stage: None
+description: ''
+last_updated_timestamp: 1743028957097
+name: DecisionTreeClassifier-proyect_cancer
+run_id: ce7bf9d7dc494e89b4d2951bc2df51e2
+run_link: ''
+source: mlflow-artifacts:/128871942127015632/ce7bf9d7dc494e89b4d2951bc2df51e2/artifacts/DecisionTreeClassifier-proyect_cancer
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/128871942127015632/ce7bf9d7dc494e89b4d2951bc2df51e2/artifacts/DecisionTreeClassifier-proyect_cancer
+user_id: null
+version: 1

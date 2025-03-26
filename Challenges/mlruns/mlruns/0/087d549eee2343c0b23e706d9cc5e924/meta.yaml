@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/087d549eee2343c0b23e706d9cc5e924/artifacts
+end_time: 1743027877385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 087d549eee2343c0b23e706d9cc5e924
+run_name: proyect_cancer
+run_uuid: 087d549eee2343c0b23e706d9cc5e924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743027868749
+status: 3
+tags: []
+user_id: ilse-

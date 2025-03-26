@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/128871942127015632
+creation_time: 1743027868896
+experiment_id: '128871942127015632'
+last_update_time: 1743027868896
+lifecycle_stage: active
+name: First Random Forest Classifier
